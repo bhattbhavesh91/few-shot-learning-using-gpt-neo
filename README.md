@@ -18,7 +18,7 @@
 or click on the image below
 
 
-[![Few Shot Learning using EleutherAI's GPT-Neo an Open-source version of GPT-3
+[![Few Shot Learning using EleutherAI's GPT-Neo an Open-source version GPT-3
 ](http://img.youtube.com/vi/OTWM1HuEccY/0.jpg)](http://www.youtube.com/watch?v=OTWM1HuEccY)
 
 ## Follow Me
