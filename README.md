@@ -1,4 +1,4 @@
-# Few Shot Learning using EleutherAI's GPT-Neo an Open-source version of GPT-3
+# Few Shot Learning using EleutherAIs GPT-Neo an Open-source version of GPT-3
 
 **If you like my work, you can support me by buying me a coffee by clicking the link below**
 
